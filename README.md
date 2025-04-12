@@ -1,5 +1,4 @@
 # How to fork and clone
-<<<<<<< HEAD
 
 One quick note about cloning this project. If you wish to make commits and push your own code, you'll need to fork the project first. Forking allows you to have your own copy of this repository by adding a duplicate version in your own profile!
 
@@ -69,5 +68,5 @@ git checkout lesson-15
 ```
 git checkout -b my-main-branch
 ```
->>>>>>> 5ff609b624c27260464b132fb7fb96eb1a107fe5
+
 3. Now you can just code on this branch, push code from this branch up to your forked repo etc. The main thing to remember is that you want to be on this branch for your own code, so remember what you named this branch!
